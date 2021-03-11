@@ -1,0 +1,1051 @@
+{
+  "user": [
+    {
+      "id": 101,
+      "username": "LaTericElE",
+      "password": "LaTerpass",
+      "email": "DGEACEnTan@yahoo.com"
+    },
+    {
+      "id": 102,
+      "username": "otinAiRdiO",
+      "password": "otinApass",
+      "email": "GIVALAnAlD@mail.ru"
+    },
+    {
+      "id": 103,
+      "username": "ptIONfACti",
+      "password": "ptIONpass",
+      "email": "kIMINDrISE@gmail.com"
+    },
+    {
+      "id": 104,
+      "username": "MobERveRSy",
+      "password": "MobERpass",
+      "email": "BlUMIaLstI@mail.ru"
+    },
+    {
+      "id": 105,
+      "username": "ToreCUReSE",
+      "password": "ToreCpass",
+      "email": "Edmigypert@gmail.ru"
+    },
+    {
+      "id": 106,
+      "username": "AlykneyENe",
+      "password": "Alyknpass",
+      "email": "tILeRbitha@yandex.ru"
+    },
+    {
+      "id": 107,
+      "username": "RiuscardYE",
+      "password": "Riuscpass",
+      "email": "FleaRveRVI@yandex.ru"
+    },
+    {
+      "id": 108,
+      "username": "culGARIdEt",
+      "password": "culGApass",
+      "email": "ganeXERAnG@yandex.ru"
+    },
+    {
+      "id": 109,
+      "username": "IbLEvanYME",
+      "password": "IbLEvpass",
+      "email": "proPjaCYPe@gmail.com"
+    },
+    {
+      "id": 110,
+      "username": "TYcHIgnoto",
+      "password": "TYcHIpass",
+      "email": "ShAwBonGuI@gmail.com"
+    }
+
+  ],
+  "iphone": [
+    {
+      "Generation": "iPhone 12 Pro Max",
+      "Models": [
+        {
+          "Color": "Silver",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGC13", "MGD83", "MG8Y3", "MGA93", "MG9Q3", "MG9C3", "MGCG3" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGC53", "MGDD3", "MGCL3", "MG933", "MGAJ3", "MG9V3", "MG9G3" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGCA3", "MGDH3", "MG973", "MGAU3", "MGA23", "MG9L3", "MGCQ3" ]
+        },
+        {
+          "Color": "Graphite",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGC03", "MGD73", "MG8X3", "MGA73", "MG9P3", "MG9A3", "MGCF3" ]
+        },
+        {
+          "Color": "Graphite",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGC43", "MGDC3", "MGCK3", "MG923", "MGAH3", "MG9U3", "MG9F3" ]
+        },
+        {
+          "Color": "Graphite",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGC93", "MGDG3", "MGCP3", "MG963", "MGAR3", "MG9Y3", "MG9K3" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGC23", "MGD93", "MG903", "MGAA3", "MG9R3", "MG9D3", "MGCH3" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGC63", "MGDE3", "MG943", "MGAM3", "MG9W3", "MG9H3", "MGCM3" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGCC3", "MGDK3", "MGCR3", "MG983", "MGAW3", "MGA33", "MG9M3" ]
+        },
+        {
+          "Color": "Pacific Blue",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGC33", "MGDA3", "MGCJ3", "MG913", "MGAF3", "MG9T3", "MG9E3" ]
+        },
+        {
+          "Color": "Pacific Blue",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGC73", "MGDF3", "MG953", "MGAQ3", "MG9X3", "MG9J3", "MGCN3" ]
+        },
+        {
+          "Color": "Pacific Blue",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGCE3", "MGDL3", "MG993", "MGAX3", "MGA43", "MG9N3", "MGCT3" ]
+        }
+      ],
+    },
+    {
+      "Generation": "iPhone 12 Pro",
+      "Models": [
+        {
+          "Color": "Silver",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGLA3", "MGML3", "MGJN3", "MGKW3", "MGKH3", "MGK23", "MGLP3" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGLF3", "MGMQ3", "MGLU3", "MGJT3", "MGL23", "MGKM3", "MGK63" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGLK3", "MGMV3", "MGJX3", "MGL63", "MGKR3", "MGKC3", "MGLY3" ]
+        },
+        {
+          "Color": "Graphite",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGL93", "MGMK3", "MGJM3", "MGKV3", "MGKG3", "MGK13", "MGLN3" ]
+        },
+        {
+          "Color": "Graphite",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGLE3", "MGMP3", "MGLT3", "MGJR3", "MGKL3", "MGK53", "MGL03" ]
+        },
+        {
+          "Color": "Graphite",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGLJ3", "MGMU3", "MGLX3", "MGJW3", "MGL53", "MGKQ3", "MGKA3" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGLC3", "MGMM3", "MGJP3", "MGKX3", "MGKJ3", "MGK33", "MGLQ3" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGLG3", "MGMR3", "MGJU3", "MGL33", "MGKN3", "MGK73", "MGLV3" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGLL3", "MGMW3", "MGM23", "MGJY3", "MGL73", "MGKT3", "MGKE3" ]
+        },
+        {
+          "Color": "Pacific Blue",
+          "Storage": "128 GB",
+          "Price": 649890,
+          "Model": [ "MGLD3", "MGMN3", "MGJQ3", "MGKY3", "MGKK3", "MGK43", "MGLR3" ]
+        },
+        {
+          "Color": "Pacific Blue",
+          "Storage": "256 GB",
+          "Price": 709890,
+          "Model": [ "MGLH3", "MGMT3", "MGJV3", "MGL43", "MGKP3", "MGK93", "MGLW3" ]
+        },
+        {
+          "Color": "Pacific Blue",
+          "Storage": "512 GB",
+          "Price": 854890,
+          "Model": [ "MGLM3", "MGMX3", "MGK03", "MGL83", "MGKU3", "MGKF3", "MGM43" ]
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 12",
+      "Models": [
+        {
+          "Color": "White",
+          "Storage": "64 GB",
+          "Price": 469890,
+          "Model": [ "MGGN3", "MGJ63", "MGEG3", "MGG63", "MGFM3", "MGF53", "MGH73" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "128 GB",
+          "Price": 499890,
+          "Model": [ "MGGV3", "MGJC3", "MGHD3", "MGET3", "MGGC3", "MGFT3", "MGFA3" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "256 GB",
+          "Price": 569890,
+          "Model": [ "MGH23", "MGJH3", "MGF03", "MGGH3", "MGG13", "MGFG3", "MGHJ3" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "64 GB",
+          "Price": 469890,
+          "Model": [ "MGGM3", "MGJ53", "MGEF3", "MGG53", "MGFL3", "MGF43", "MGH63" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "128 GB",
+          "Price": 499890,
+          "Model": [ "MGGU3", "MGJA3", "MGHC3", "MGER3", "MGGA3", "MGFR3", "MGF93" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "256 GB",
+          "Price": 569890,
+          "Model": [ "MGH13", "MGJG3", "MGHH3", "MGEX3", "MGGG3", "MGG03", "MGFF3" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "64 GB",
+          "Price": 469890,
+          "Model": [ "MGGP3", "MGJ73", "MGEH3", "MGG73", "MGFN3", "MGF63", "MGH83" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "128 GB",
+          "Price": 499890,
+          "Model": [ "MGGW3", "MGJD3", "MGHE3", "MGEU3", "MGGD3", "MGFW3", "MGFC3" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "256 GB",
+          "Price": 569890,
+          "Model": [ "MGH33", "MGJJ3", "MGF13", "MGGJ3", "MGG23", "MGFH3", "MGHK3" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "64 GB",
+          "Price": 469890,
+          "Model": [ "MGGT3", "MGJ93", "MGEQ3", "MGG93", "MGFQ3", "MGF83", "MGHA3" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "128 GB",
+          "Price": 499890,
+          "Model": [ "MGGY3", "MGJF3", "MGHG3", "MGEW3", "MGGF3", "MGFY3", "MGFE3" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "256 GB",
+          "Price": 569890,
+          "Model": [ "MGH53", "MGJL3", "MGHM3", "MGF33", "MGGL3", "MGG43", "MGFK3" ]
+        },
+        {
+          "Color": "Blue",
+          "Storage": "64 GB",
+          "Price": 469890,
+          "Model": [ "MGGQ3", "MGJ83", "MGH93", "MGEK3", "MGG83", "MGFP3", "MGF73" ]
+        },
+        {
+          "Color": "Blue",
+          "Storage": "128 GB",
+          "Price": 499890,
+          "Model": [ "MGGX3", "MGJE3", "MGEV3", "MGGE3", "MGFX3", "MGFD3", "MGHF3" ]
+        },
+        {
+          "Color": "Blue",
+          "Storage": "256 GB",
+          "Price": 569890,
+          "Model": [ "MGH43", "MGJK3", "MGF23", "MGGK3", "MGG33", "MGFJ3", "MGHL3" ]
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 12 mini",
+      "Models": [
+        {
+          "Color": "White",
+          "Storage": "64 GB",
+          "Price": 399890,
+          "Model": [ "MG803", "MGDY3", "MG613", "MG7H3", "MG713", "MG6H3", "MG8G3" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "128 GB",
+          "Price": 429890,
+          "Model": [ "MG853", "MGE43", "MG8M3", "MG663", "MG7N3", "MG763", "MG6N3" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "256 GB",
+          "Price": 509890,
+          "Model": [ "MG8A3", "MGEA3", "MG6C3", "MG7U3", "MG7C3", "MG6V3", "MG8T3" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "64 GB",
+          "Price": 399890,
+          "Model": [ "MG7Y3", "MGDX3", "MG603", "MG7G3", "MG703", "MG6G3", "MG8F3" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "128 GB",
+          "Price": 429890,
+          "Model": [ "MG843", "MGE33", "MG653", "MG7M3", "MG753", "MG6M3", "MG8L3" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "256 GB",
+          "Price": 509890,
+          "Model": [ "MG893C", "MGE93", "MG8R3", "MG6A3", "MG7T3", "MG7A3", "MG6U3" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "64 GB",
+          "Price": 399890,
+          "Model": [ "MG813", "MGE03", "MG623", "MG7J3", "MG723", "MG6J3", "MG8H3" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "128 GB",
+          "Price": 429890,
+          "Model": [ "MG863", "MGE53", "MG8N3", "MG673", "MG7P3", "MG6P3", "MG773" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "256 GB",
+          "Price": 509890,
+          "Model": [ "MG8C3", "MGEC3", "MG6D3", "MG7V3", "MG7D3", "MG6W3", "MG8U3" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "64 GB",
+          "Price": 399890,
+          "Model": [ "MG833", "MGE23", "MG8K3", "MG643", "MG7L3", "MG743", "MG6L3" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "128 GB",
+          "Price": 429890,
+          "Model": [ "MG883", "MGE73", "MG693", "MG7R3", "MG793", "MG6T3", "MG8Q3" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "256 GB",
+          "Price": 509890,
+          "Model": [ "MG8E3", "MGEE3", "MG8W3", "MG6F3", "MG7X3", "MG7F3", "MG6Y3" ]
+        },
+        {
+          "Color": "Blue",
+          "Storage": "64 GB",
+          "Price": 399890,
+          "Model": [ "MG823", "MGE13", "MG8J3", "MG633", "MG7K3", "MG733", "MG6K3" ]
+        },
+        {
+          "Color": "Blue",
+          "Storage": "128 GB",
+          "Price": 429890,
+          "Model": [ "MG873", "MGE63", "MG683", "MG7Q3", "MG783", "MG6Q3", "MG8P3" ]
+        },
+        {
+          "Color": "Blue",
+          "Storage": "256 GB",
+          "Price": 509890,
+          "Model": [ "MG8D3", "MGED3", "MG6E3", "MG7W3", "MG7E3", "MG6X3", "MG8V3" ]
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 11 Pro Max",
+      "Models": [
+        {
+          "Color": "Gold",
+          "Storage": "64 GB",
+          "Price": 548790,
+          "Model": [ "MWFC2", "MWG42", "MWFQ2", "MWGH2", "MWH12" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "256 GB",
+          "Price": 595100,
+          "Model": [ "MWFG2", "MWG82", "MWFV2", "MWGM2", "MWH62" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "512 GB",
+          "Price": 717990,
+          "Model": [ "MWFL2", "MWGD2", "MWG02", "MWGR2", "MWHA2" ]
+        },
+        {
+          "Color": "Midnight Green",
+          "Storage": "64 GB",
+          "Price": 548790,
+          "Model": [ "MWFD2", "MWG52", "MWFR2", "MWGJ2", "MWH22" ]
+        },
+        {
+          "Color": "Midnight Green",
+          "Storage": "256 GB",
+          "Price": 595100,
+          "Model": [ "MWFH2", "MWG92", "MWFW2", "MWGN2", "MWH72" ]
+        },
+        {
+          "Color": "Midnight Green",
+          "Storage": "512 GB",
+          "Price": 717990,
+          "Model": [ "MWFM2", "MWGE2", "MWG12", "MWGT2", "MWHC2" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "64 GB",
+          "Price": 548790,
+          "Model": [ "MWFA2", "MWG32", "MWFP2", "MWGG2", "MWH02" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "256 GB",
+          "Price": 595100,
+          "Model": [ "MWFF2", "MWG72", "MWFU2", "MWGL2", "MWH52" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "512 GB",
+          "Price": 717990,
+          "Model": [ "MWFK2", "MWGC2", "MWFY2", "MWGQ2", "MWH92" ]
+        },
+        {
+          "Color": "Space Gray",
+          "Storage": "64 GB",
+          "Price": 548790,
+          "Model": [ "MWF92", "MWG22", "MWFN2", "MWGF2", "MWGY2" ]
+        },
+        {
+          "Color": "Space Gray",
+          "Storage": "256 GB",
+          "Price": 595100,
+          "Model": [ "MWFE2", "MWG62", "MWFT2", "MWGK2", "MWH42" ]
+        },
+        {
+          "Color": "Space Gray",
+          "Storage": "512 GB",
+          "Price": 717990,
+          "Model": [ "MWFJ2", "MWGA2", "MWFX2", "MWGP2", "MWH82" ]
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 11 Pro",
+      "Models": [
+        {
+          "Color": "Gold",
+          "Storage": "64 GB",
+          "Price": 436899,
+          "Model": [ "MWDC2" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "256 GB",
+          "Price": 537777,
+          "Model": [ "MWDG2" ]
+        },
+        {
+          "Color": "Gold",
+          "Storage": "512 GB",
+          "Price": 569900,
+          "Model": [ "MWDL2" ]
+        },
+        {
+          "Color": "Midnight Green",
+          "Storage": "64 GB",
+          "Price": 436899,
+          "Model": [ "MWDD2" ]
+        },
+        {
+          "Color": "Midnight Green",
+          "Storage": "256 GB",
+          "Price": 537777,
+          "Model": [ "MWDH2" ]
+        },
+        {
+          "Color": "Midnight Green",
+          "Storage": "512 GB",
+          "Price": 569900,
+          "Model": [ "MWDM2" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "64 GB",
+          "Price": 436899,
+          "Model": [ "MWDA2" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "256 GB",
+          "Price": 537777,
+          "Model": [ "MWDF2" ]
+        },
+        {
+          "Color": "Silver",
+          "Storage": "512 GB",
+          "Price": 569900,
+          "Model": [ "MWDK2" ]
+        },
+        {
+          "Color": "Space Gray",
+          "Storage": "64 GB",
+          "Price": 436899,
+          "Model": [ "MWD92" ]
+        },
+        {
+          "Color": "Space Gray",
+          "Storage": "256 GB",
+          "Price": 537777,
+          "Model": [ "MWDE2" ]
+        },
+        {
+          "Color": "Space Gray",
+          "Storage": "512 GB",
+          "Price": 569900,
+          "Model": [ "MWDJ2" ]
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 11",
+      "Models": [
+        {
+          "Color": "Black",
+          "Storage": "64 GB",
+          "Price": 359890,
+          "Model": [ "MWN02" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "128 GB",
+          "Price": 389890,
+          "Model": [ "MWN72" ]
+        },
+        {
+          "Color": "Black",
+          "Storage": "256 GB",
+          "Price": 449890,
+          "Model": [ "MWNF2" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "64 GB",
+          "Price": 359890,
+          "Model": [ "MWN62" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "128 GB",
+          "Price": 389890,
+          "Model": [ "MWNE2" ]
+        },
+        {
+          "Color": "Green",
+          "Storage": "256 GB",
+          "Price": 449890,
+          "Model": [ "MWNL2" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "64 GB",
+          "Price": 359890,
+          "Model": [ "MWN22" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "128 GB",
+          "Price": 389890,
+          "Model": [ "MWN92" ]
+        },
+        {
+          "Color": "Red",
+          "Storage": "256 GB",
+          "Price": 449890,
+          "Model": [ "MWNH2" ]
+        },
+        {
+          "Color": "Purple",
+          "Storage": "64 GB",
+          "Price": 359890,
+          "Model": [ "MWN52" ]
+        },
+        {
+          "Color": "Purple",
+          "Storage": "128 GB",
+          "Price": 389890,
+          "Model": [ "MWND2" ]
+        },
+        {
+          "Color": "Purple",
+          "Storage": "256 GB",
+          "Price": 449890,
+          "Model": [ "MWNK2" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "64 GB",
+          "Price": 359890,
+          "Model": [ "MWN12" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "128 GB",
+          "Price": 389890,
+          "Model": [ "MWN82" ]
+        },
+        {
+          "Color": "White",
+          "Storage": "256 GB",
+          "Price": 449890,
+          "Model": [ "MWNG2" ]
+        },
+        {
+          "Color": "Yellow",
+          "Storage": "64 GB",
+          "Price": 359890,
+          "Model": [ "MWN32" ]
+        },
+        {
+          "Color": "Yellow",
+          "Storage": "128 GB",
+          "Price": 389890,
+          "Model": [ "MWNC2" ]
+        },
+        {
+          "Color": "Yellow",
+          "Storage": "256 GB",
+          "Price": 449890,
+          "Model": [ "MWNJ2" ]
+        }
+      ]
+    },
+  ],
+  "macbook": [
+    {
+      "Generation": "Macbook Pro 13",
+      "Models": [
+        {
+          "Color": "Space Grey",
+          "Storage": 256
+        }
+      ]
+    }
+  ],
+  "applewatch": [
+    {
+      "Generation": "Apple Watch Series 6",
+      "Models": [
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GQ3", "M0G73" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GP3", "M0G63" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GR3", "M0G83" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Blue",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GT3", "M0G93" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Red",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GU3", "M0GC3" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Gold",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GV3", "M0GD3" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Silver",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GW3", "M0GF3" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Graphite",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0GX3", "M0GG3" ]
+        },
+        {
+          "CaseMaterial": "Titanium",
+          "Color": "Titanium",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0H23", "M0GJ3" ]
+        },
+        {
+          "CaseMaterial": "Titanium",
+          "Color": "Space Black",
+          "Size": "44mm",
+          "Price": 255990,
+          "Model": [ "M0H13", "M0GH3" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "40mm",
+          "Price": 236990,
+          "Model": [ "MG193" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "40mm",
+          "Price": 236990,
+          "Model": [ "MG183" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "40mm",
+          "Price": 236990,
+          "Model": [ "MG1A3" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Blue",
+          "Size": "40mm",
+          "Price": 236990,
+          "Model": [ "MG2A3" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Red",
+          "Size": "40mm",
+          "Price": 236990,
+          "Model": [ "M02C3" ]
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch SE",
+      "Models": [
+       {
+         "CaseMaterial": "Aluminum",
+         "Color": "Gold",
+         "Size": "44mm",
+         "Model": [ "MYF92", "MYFD2" ]
+       },
+       {
+         "CaseMaterial": "Aluminum",
+         "Color": "Silver",
+         "Size": "44mm",
+         "Model": [ "MYF82", "MYFC2" ]
+       },
+       {
+         "CaseMaterial": "Aluminum",
+         "Color": "Space Gray",
+         "Size": "44mm",
+         "Model": [ "MYFA2", "MYFE2" ]
+       },
+       {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "40mm",
+          "Model": [ "MYF32", "MYF62" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "40mm",
+          "Model": [ "MYF22", "MYF52" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "40mm",
+          "Model": [ "MYF42", "MYF72" ]
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch Series 5",
+      "Models": [
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "44mm",
+          "Model": [ "MWQL2", "MWR02" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "44mm",
+          "Model": [ "MWVY2", "MWWC2", "MX392", "MX3E2", "MWQV2", "MXR12", "MWQK2", "MWQY2", "MWR82" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "44mm",
+          "Model": [ "MWQM2", "MWR12", "MWW12", "MWWE2", "MWQW2", "MX3A2", "MWR92" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Gold",
+          "Size": "44mm",
+          "Model": [ "MWQN2", "MWWH2", "MWW62", "MWW52", "MWR22", "MWWJ2" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Stainless Steel",
+          "Size": "44mm",
+          "Model": [ "MWQP2", "MWR32", "MWQX2", "MWW32", "MWWG2", "MWRA2", "MX5C2" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Space Black",
+          "Size": "44mm",
+          "Model": [ "MWQQ2", "MWR42", "MWW92", "MWWM2" ]
+        },
+        {
+          "CaseMaterial": "Titanium",
+          "Color": "Titanium",
+          "Size": "44mm",
+          "Model": [ "MWQT2", "MWR62" ]
+        },
+        {
+          "CaseMaterial": "Titanium",
+          "Color": "Space Black",
+          "Size": "44mm",
+          "Model": [ "MWQR2", "MWR52" ]
+        },
+        {
+          "CaseMaterial": "Ceramic",
+          "Color": "White",
+          "Size": "44mm",
+          "Model": [ "MWQU2", "MWR72" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "40mm",
+          "Model": [ "MWPU2", "MWQ72" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "40mm",
+          "Model": [ "MWWN2", "MWX12", "MX372", "MX3C2", "MWPT2", "MWQ62", "MWQG2" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "40mm",
+          "Model": [ "MWPV2", "MWQ82", "MWWQ2", "MWX32", "MWQ42", "MWQH2" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Gold",
+          "Size": "40mm",
+          "Model": [ "MWPW2", "MWX62", "MWWV2", "MWWU2" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Stainless Steel",
+          "Size": "40mm",
+          "Model": [ "MWPX2", "MWQA2", "MX5L2", "MX5K2", "MWWT2", "MWX52", "MWQJ2", "MX5M2", "MX5N2" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Space Black",
+          "Size": "40mm",
+          "Model": [ "MWPY2", "MWQC2", "MWX02", "MWXC2", "MWXA2" ]
+        },
+        {
+          "CaseMaterial": "Titanium",
+          "Color": "Titanium",
+          "Size": "40mm",
+          "Model": [ "MWQ12", "MWQE2" ]
+        },
+        {
+          "CaseMaterial": "Titanium",
+          "Color": "Space Black",
+          "Size": "40mm",
+          "Model": [ "MWQ02", "MWQD2" ]
+        },
+        {
+          "CaseMaterial": "Ceramic",
+          "Color": "White",
+          "Size": "40mm",
+          "Model": [ "MWQ22", "MWQF2" ]
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch Series 4",
+      "Models": [
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "44mm",
+          "Model": [ "MTV02", "MTV12", "MTVW2", "MTVX2" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "44mm",
+          "Model": [ "MTUU2", "MTUV2", "MU6X2", "MTXC2", "MTXA2", "MTVR2", "MTVT2", "MTXK2", "MTXJ2" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "44mm",
+          "Model": [ "MTUW2", "MTUX2", "MTXE2", "MTXD2", "MTVU2", "MTVV2", "MTXM2", "MTXL2" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Gold",
+          "Size": "44mm",
+          "Model": [ "MTV72", "MTV82", "MTX42", "MTX52" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Silver",
+          "Size": "44mm",
+          "Model": [ "MTV22", "MTV42", "MU6W2", "MU6V2", "MU9D2", "MU9D2", "MU6U2", "MU6T2", "MU782", "MU772", "MU762", "MU9E2", "MU752", "MU742" ]
+        },
+        {
+          "CaseMaterial": "Stainless Steel",
+          "Color": "Space Black",
+          "Size": "44mm",
+          "Model": [ "MTV52", "MTV62", "MTX22", "MTX32" ]
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch Series 3",
+      "Models": [
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Gold",
+          "Size": "42mm",
+          "Model": [ "MQL22" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Silver",
+          "Size": "42mm",
+          "Model": [ "MQL02", "MQL32" ]
+        },
+        {
+          "CaseMaterial": "Aluminum",
+          "Color": "Space Gray",
+          "Size": "42mm",
+          "Model": [ "MQL12", "MQL42", "MR362" ]
+        }
+      ]
+    },
+  ],
+  "airpods": [
+    {
+      "Generation": "AirPods (1st generation)",
+      "Models": [
+        {
+          "Color": "White",
+          "Price": 82790,
+          "Model": [ "MMEF2" ]
+        }
+      ]
+    },
+    {
+      "Generation": "AirPods (2nd generation)",
+      "Models": [
+        {
+          "Color": "White",
+          "Price": 99990,
+          "Model": [ "MRXJ2", "MV7N2", "MR8U2" ]
+        }
+      ]
+    },
+    {
+      "Generation": "AirPods Pro",
+      "Models": [
+        {
+          "Color": "White",
+          "Price": 132790,
+          "Model": [ "MWP22" ]
+        }
+      ]
+    }
+  ]
+}
